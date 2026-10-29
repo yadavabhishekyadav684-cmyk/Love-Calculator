@@ -1,0 +1,36 @@
+#GrandParent{
+    margin: 0px;
+    height: 100vh;
+    background-color: #7C0E44;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Parent{
+    padding: 20px;
+    height: 400px;
+    width: 300px;
+    background-color: #FF88BA;
+    border: 5px solid black;
+}
+#line{
+    height: 2px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+#form{
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    color: black;
+    border: 2px solid black;
+    padding: 4px 0px 4px 5px;
+}
+button{
+    height: 30px;
+    border: 3px solid;
+    background-color: rgb(118, 196, 87);
+    font-size: 18px;
+
+}
